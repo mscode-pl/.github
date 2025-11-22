@@ -8,7 +8,6 @@
   Programujemy z myślą o jakości, innowacji i społeczności.
 </p>
 <p align="center">
-  <a href="https://mpsolutions.tech/">MPSolutions.tech</a> • 
   <a href="https://dc.mscode.pl/">Discord</a> • 
   <a href="https://mscode.pl/">Strona główna</a> • 
   <a href="mailto:kontakt@mscode.pl">kontakt@mscode.pl</a>
@@ -20,4 +19,4 @@
 
 ---
 
-<p align="center"><i>MsCode.pl – Pasja, Jakość, Innowacja.<br/>Part of <a href="https://mpsolutions.tech/">MPSolutions.tech</a> company</i></p>
+<p align="center"><i>Wyprzedź konkurencję, zanim wystartuje</p>
