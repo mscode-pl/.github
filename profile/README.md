@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=mscode-pl&label=Wyświetlenia%20profilu&color=0e75b6&style=flat" alt="Wyświetlenia profilu" /> 
 </p>
 
-<img src="https://mscode.pl/images/ogimg.png">
+<img src="https://mscode.pl/ogimg.png">
 
 ---
 
