@@ -2,7 +2,7 @@
   <img width="192" alt="Sygnet MsCode.pl" src="https://github.com/mscode-pl/.github/assets/41286754/109cb967-4362-4aa4-83b3-cabdcc1f6637"/>
 </p>
 
-<h2 align="center">MsCode.pl</h2>
+<h2 align="center">MSCode.pl</h2>
 <p align="center">
   <b>Zespół programistów z pasją</b><br>
   Programujemy z myślą o jakości, innowacji i społeczności.
