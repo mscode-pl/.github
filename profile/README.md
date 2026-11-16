@@ -1,5 +1,5 @@
 <a href="https://mscode.pl/">
-  <img src="https://github.com/mscode-pl/.github/blob/master/profile/linkedin-banner.en.jpg?raw=true" alt="MSCode – Budujemy software, który pracuje na firmę.">
+  <img src="https://github.com/mscode-pl/.github/blob/master/profile/banner.en.jpg?raw=true" alt="MSCode – Budujemy software, który pracuje na firmę.">
 </a>
 
 <h3 align="center">Budujemy software, który pracuje na firmę.</h3>
