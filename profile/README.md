@@ -1,5 +1,5 @@
 <a href="https://mscode.pl/">
-  <img src="https://github.com/mscode-pl/.github/blob/master/profile/banner.en.jpg?raw=true" alt="MSCode – Budujemy software, który pracuje na firmę.">
+  <img src="https://github.com/mscode-pl/.github/blob/master/profile/banner.en.jpg?raw=true" alt="MSCode: budujemy software, który pracuje na firmę.">
 </a>
 
 <h3 align="center">Budujemy software, który pracuje na firmę.</h3>
@@ -22,7 +22,7 @@
 
 ### `👋` Kim jesteśmy?
 
-**MSCode to Twój zespół IT** – projektanci i programiści, którzy prowadzą projekt od pomysłu do serwera.
+**MSCode to Twój zespół IT**: projektanci i programiści, którzy prowadzą projekt od pomysłu do serwera.
 Bez podwykonawców i bez przerzucania odpowiedzialności: kto programuje, ten też hostuje i utrzymuje.
 
 | **6+** | **1M+** | **99,9%** | **24 h** |
@@ -44,10 +44,47 @@ Bez podwykonawców i bez przerzucania odpowiedzialności: kto programuje, ten te
 
 | Rozmowa | Projekt | Wdrożenie | Opieka |
 |:-:|:-:|:-:|:-:|
-| `1–2 dni` | `1–3 tyg.` | `2–12 tyg.` | `stale` |
+| `1-2 dni` | `1-3 tyg.` | `2-12 tyg.` | `stale` |
 | Cel, budżet, termin i wstępna wycena. | Makiety, design w Figmie i plan techniczny. | Krótkie etapy z wersją testową do klikania. | Hosting, aktualizacje, poprawki i rozwój. |
 
 Wycena w 2 dni robocze, płatność etapami, a po rozliczeniu projekt, repozytorium i dokumentacja należą do Ciebie.
+
+### `📦` Open source
+
+Narzędzia, których sami używamy w projektach klientów. Darmowe, na licencji MIT.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mscode-pl/laravel-react-email">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mscode-pl/laravel-react-email/master/.github/banner-dark.svg">
+          <img src="https://raw.githubusercontent.com/mscode-pl/laravel-react-email/master/.github/banner-light.svg" alt="Laravel React Email" width="100%">
+        </picture>
+      </a>
+      <h4><a href="https://github.com/mscode-pl/laravel-react-email">laravel-react-email</a></h4>
+      <p>Maile piszesz w React Email, a Laravel wysyła je jako zwykłe widoki Blade, ze zmiennymi, pętlami i warunkami.</p>
+      <p><code>composer require mscode-pl/laravel-react-email</code></p>
+      <a href="https://packagist.org/packages/mscode-pl/laravel-react-email"><img src="https://img.shields.io/packagist/v/mscode-pl/laravel-react-email?style=flat-square&color=1A5BB5&label=packagist" alt="Packagist"></a>
+      <a href="https://packagist.org/packages/mscode-pl/laravel-react-email"><img src="https://img.shields.io/packagist/dt/mscode-pl/laravel-react-email?style=flat-square&color=1A5BB5" alt="Pobrania"></a>
+      <a href="https://github.com/mscode-pl/laravel-react-email"><img src="https://img.shields.io/github/stars/mscode-pl/laravel-react-email?style=flat-square&color=1A5BB5" alt="Gwiazdki"></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mscode-pl/email-lint">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mscode-pl/email-lint/master/.github/banner-dark.svg">
+          <img src="https://raw.githubusercontent.com/mscode-pl/email-lint/master/.github/banner-light.svg" alt="Email Lint" width="100%">
+        </picture>
+      </a>
+      <h4><a href="https://github.com/mscode-pl/email-lint">email-lint</a></h4>
+      <p>Sprawdza HTML maila z danymi caniemail.com i wskazuje linie, których nie obsłuży Outlook, Gmail czy Apple Mail. Działa z każdym HTML, także w CI.</p>
+      <p><code>npx @mscode-pl/email-lint</code></p>
+      <a href="https://www.npmjs.com/package/@mscode-pl/email-lint"><img src="https://img.shields.io/npm/v/@mscode-pl/email-lint?style=flat-square&color=1A5BB5" alt="npm"></a>
+      <a href="https://www.npmjs.com/package/@mscode-pl/email-lint"><img src="https://img.shields.io/npm/dm/@mscode-pl/email-lint?style=flat-square&color=1A5BB5" alt="Pobrania"></a>
+      <a href="https://github.com/mscode-pl/email-lint"><img src="https://img.shields.io/github/stars/mscode-pl/email-lint?style=flat-square&color=1A5BB5" alt="Gwiazdki"></a>
+    </td>
+  </tr>
+</table>
 
 ### `🧰` Technologie
 
@@ -124,9 +161,9 @@ Technologie, z którymi mamy doświadczenie. Stack dobieramy do projektu i do te
 
 ### `🚀` Wybrane realizacje
 
-- **Selify** – platforma e-commerce dla butików: sklep, panel klienta i warstwa AI (mikroserwis w Go, InPost Pay)
-- **NinjasX** – portfolio montażysty wideo ze streamingiem HLS i treściami w Strapi
-- **Pixelium** – strona studia graficznego dla twórców Minecrafta
+- **Selify**: platforma e-commerce dla butików: sklep, panel klienta i warstwa AI (mikroserwis w Go, InPost Pay)
+- **NinjasX**: portfolio montażysty wideo ze streamingiem HLS i treściami w Strapi
+- **Pixelium**: strona studia graficznego dla twórców Minecrafta
 
 Więcej na [mscode.pl](https://mscode.pl/#projects).
 
@@ -134,7 +171,7 @@ Więcej na [mscode.pl](https://mscode.pl/#projects).
 
 <p align="center">
   <b>Masz pomysł na projekt? Porozmawiajmy.</b><br>
-  <sub>Opisz, co chcesz zbudować – wstępną wycenę przygotujemy w ciągu 2 dni roboczych.</sub>
+  <sub>Opisz, co chcesz zbudować, a wstępną wycenę przygotujemy w ciągu 2 dni roboczych.</sub>
 </p>
 
 <p align="center">
