@@ -114,6 +114,22 @@ Narzędzia, których sami używamy w projektach klientów. Darmowe, na licencji 
       <a href="https://github.com/mscode-pl/vocative"><img src="https://badges.mscode.pl/github/stars/mscode-pl/vocative" alt="Gwiazdki"></a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/mscode-pl/feed-lint">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mscode-pl/feed-lint/master/.github/banner-dark.svg">
+          <img src="https://raw.githubusercontent.com/mscode-pl/feed-lint/master/.github/banner-light.svg" alt="feed-lint" width="49%">
+        </picture>
+      </a>
+      <h4><a href="https://github.com/mscode-pl/feed-lint">feed-lint</a></h4>
+      <p>Sprawdza feedy produktowe Google Merchant i Ceneo, zanim trafią do sklepu: brakujące pola, ceny w złym formacie, błędne EAN-y, zduplikowane ID i niedziałające linki, z numerem linii i ID produktu. Jest też GitHub Action i serwer MCP.</p>
+      <p><code>npx @mscode-pl/feed-lint https://twojsklep.pl/feed/google.xml</code></p>
+      <a href="https://www.npmjs.com/package/@mscode-pl/feed-lint"><img src="https://badges.mscode.pl/npm/v/@mscode-pl/feed-lint" alt="npm"></a>
+      <a href="https://www.npmjs.com/package/@mscode-pl/feed-lint"><img src="https://badges.mscode.pl/npm/dm/@mscode-pl/feed-lint" alt="Pobrania"></a>
+      <a href="https://github.com/mscode-pl/feed-lint"><img src="https://badges.mscode.pl/github/stars/mscode-pl/feed-lint" alt="Gwiazdki"></a>
+    </td>
+  </tr>
 </table>
 
 ### `🧰` Technologie
