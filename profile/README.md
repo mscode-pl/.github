@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-  <a href="https://mscode.pl/"><img src="https://img.shields.io/badge/mscode.pl-3d7dff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Strona"></a>
-  <a href="https://dc.mscode.pl/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://www.linkedin.com/company/MSCode-pl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/mscodepl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.facebook.com/mscodepl"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="mailto:kontakt@mscode.pl"><img src="https://img.shields.io/badge/kontakt@mscode.pl-111111?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"></a>
+  <a href="https://mscode.pl/"><img src="https://badges.mscode.pl/badge/mscode.pl?style=button&icon=web&color=3d7dff" alt="Strona"></a>
+  <a href="https://dc.mscode.pl/"><img src="https://badges.mscode.pl/badge/Discord?style=button&icon=discord&color=5865F2" alt="Discord"></a>
+  <a href="https://www.linkedin.com/company/MSCode-pl"><img src="https://badges.mscode.pl/badge/LinkedIn?style=button&icon=linkedin&color=0A66C2" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/mscodepl"><img src="https://badges.mscode.pl/badge/Instagram?style=button&icon=instagram&color=E4405F" alt="Instagram"></a>
+  <a href="https://www.facebook.com/mscodepl"><img src="https://badges.mscode.pl/badge/Facebook?style=button&icon=facebook&color=1877F2" alt="Facebook"></a>
+  <a href="mailto:kontakt@mscode.pl"><img src="https://badges.mscode.pl/badge/kontakt@mscode.pl?style=button&icon=email&color=111111" alt="E-mail"></a>
 </p>
 
 ---
@@ -65,9 +65,9 @@ Narzędzia, których sami używamy w projektach klientów. Darmowe, na licencji 
       <h4><a href="https://github.com/mscode-pl/laravel-react-email">laravel-react-email</a></h4>
       <p>Maile piszesz w React Email, a Laravel wysyła je jako zwykłe widoki Blade, ze zmiennymi, pętlami i warunkami.</p>
       <p><code>composer require mscode-pl/laravel-react-email</code></p>
-      <a href="https://packagist.org/packages/mscode-pl/laravel-react-email"><img src="https://img.shields.io/packagist/v/mscode-pl/laravel-react-email?style=flat-square&color=1A5BB5&label=packagist" alt="Packagist"></a>
-      <a href="https://packagist.org/packages/mscode-pl/laravel-react-email"><img src="https://img.shields.io/packagist/dt/mscode-pl/laravel-react-email?style=flat-square&color=1A5BB5" alt="Pobrania"></a>
-      <a href="https://github.com/mscode-pl/laravel-react-email"><img src="https://img.shields.io/github/stars/mscode-pl/laravel-react-email?style=flat-square&color=1A5BB5" alt="Gwiazdki"></a>
+      <a href="https://packagist.org/packages/mscode-pl/laravel-react-email"><img src="https://badges.mscode.pl/packagist/v/mscode-pl/laravel-react-email" alt="Packagist"></a>
+      <a href="https://packagist.org/packages/mscode-pl/laravel-react-email"><img src="https://badges.mscode.pl/packagist/dt/mscode-pl/laravel-react-email" alt="Pobrania"></a>
+      <a href="https://github.com/mscode-pl/laravel-react-email"><img src="https://badges.mscode.pl/github/stars/mscode-pl/laravel-react-email" alt="Gwiazdki"></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/mscode-pl/email-lint">
@@ -79,9 +79,25 @@ Narzędzia, których sami używamy w projektach klientów. Darmowe, na licencji 
       <h4><a href="https://github.com/mscode-pl/email-lint">email-lint</a></h4>
       <p>Sprawdza HTML maila z danymi caniemail.com i wskazuje linie, których nie obsłuży Outlook, Gmail czy Apple Mail. Działa z każdym HTML, także w CI.</p>
       <p><code>npx @mscode-pl/email-lint</code></p>
-      <a href="https://www.npmjs.com/package/@mscode-pl/email-lint"><img src="https://img.shields.io/npm/v/@mscode-pl/email-lint?style=flat-square&color=1A5BB5" alt="npm"></a>
-      <a href="https://www.npmjs.com/package/@mscode-pl/email-lint"><img src="https://img.shields.io/npm/dm/@mscode-pl/email-lint?style=flat-square&color=1A5BB5" alt="Pobrania"></a>
-      <a href="https://github.com/mscode-pl/email-lint"><img src="https://img.shields.io/github/stars/mscode-pl/email-lint?style=flat-square&color=1A5BB5" alt="Gwiazdki"></a>
+      <a href="https://www.npmjs.com/package/@mscode-pl/email-lint"><img src="https://badges.mscode.pl/npm/v/@mscode-pl/email-lint" alt="npm"></a>
+      <a href="https://www.npmjs.com/package/@mscode-pl/email-lint"><img src="https://badges.mscode.pl/npm/dm/@mscode-pl/email-lint" alt="Pobrania"></a>
+      <a href="https://github.com/mscode-pl/email-lint"><img src="https://badges.mscode.pl/github/stars/mscode-pl/email-lint" alt="Gwiazdki"></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/mscode-pl/badges">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mscode-pl/badges/master/.github/banner-dark.svg">
+          <img src="https://raw.githubusercontent.com/mscode-pl/badges/master/.github/banner-light.svg" alt="README Badges" width="49%">
+        </picture>
+      </a>
+      <h4><a href="https://github.com/mscode-pl/badges">badges</a></h4>
+      <p>Badge i ikony technologii do README, w wersji jasnej i ciemnej: statyczne, na żywo z npm, Packagist i GitHub oraz przyciski na profil. Te na tej stronie też stąd są. Bez rejestracji.</p>
+      <p><a href="https://badges.mscode.pl"><code>badges.mscode.pl</code></a></p>
+      <a href="https://badges.mscode.pl"><img src="https://badges.mscode.pl/badge/badges.mscode.pl/live/green?icon=cloudflare" alt="badges.mscode.pl"></a>
+      <a href="https://github.com/mscode-pl/badges"><img src="https://badges.mscode.pl/github/stars/mscode-pl/badges" alt="Gwiazdki"></a>
+      <a href="https://github.com/mscode-pl/badges/blob/master/LICENSE"><img src="https://badges.mscode.pl/github/license/mscode-pl/badges" alt="Licencja"></a>
     </td>
   </tr>
 </table>
@@ -95,8 +111,8 @@ Stack dobieramy do projektu i do tego, z czym pracuje Twój zespół.
     <td width="150"><b>Frontend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,vite,astro,redux,html,css&theme=light">
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,vite,astro,redux,html,css" alt="nextjs, react, ts, js, tailwind, vite, astro, redux, html, css" height="40">
+        <source media="(prefers-color-scheme: light)" srcset="https://badges.mscode.pl/icons?i=nextjs,react,ts,js,tailwind,vite,astro,redux,html,css&theme=light">
+        <img src="https://badges.mscode.pl/icons?i=nextjs,react,ts,js,tailwind,vite,astro,redux,html,css" alt="nextjs, react, ts, js, tailwind, vite, astro, redux, html, css" height="40">
       </picture>
     </td>
   </tr>
@@ -104,18 +120,17 @@ Stack dobieramy do projektu i do tego, z czym pracuje Twój zespół.
     <td width="150"><b>Backend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,php,nodejs,express,go,py,fastapi,graphql,bash&theme=light">
-        <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,go,py,fastapi,graphql,bash" alt="laravel, php, nodejs, express, go, py, fastapi, graphql, bash" height="40">
-      </picture><br>
-      <sub>oraz Hono</sub>
+        <source media="(prefers-color-scheme: light)" srcset="https://badges.mscode.pl/icons?i=laravel,php,nodejs,hono,express,go,py,fastapi,graphql,bash&theme=light">
+        <img src="https://badges.mscode.pl/icons?i=laravel,php,nodejs,hono,express,go,py,fastapi,graphql,bash" alt="laravel, php, nodejs, hono, express, go, py, fastapi, graphql, bash" height="40">
+      </picture>
     </td>
   </tr>
   <tr>
     <td width="150"><b>Bazy danych</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma&theme=light">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma" alt="postgres, mysql, redis, prisma" height="40">
+        <source media="(prefers-color-scheme: light)" srcset="https://badges.mscode.pl/icons?i=postgres,mysql,redis,prisma&theme=light">
+        <img src="https://badges.mscode.pl/icons?i=postgres,mysql,redis,prisma" alt="postgres, mysql, redis, prisma" height="40">
       </picture>
     </td>
   </tr>
@@ -123,25 +138,28 @@ Stack dobieramy do projektu i do tego, z czym pracuje Twój zespół.
     <td width="150"><b>Infrastruktura</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,nginx,cloudflare,vercel,githubactions,prometheus,grafana,debian,linux&theme=light">
-        <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,vercel,githubactions,prometheus,grafana,debian,linux" alt="docker, nginx, cloudflare, vercel, githubactions, prometheus, grafana, debian, linux" height="40">
-      </picture><br>
-      <sub>oraz Caddy, Traefik</sub>
+        <source media="(prefers-color-scheme: light)" srcset="https://badges.mscode.pl/icons?i=docker,nginx,caddy,traefik,cloudflare,vercel,githubactions,prometheus,grafana,debian,linux&theme=light">
+        <img src="https://badges.mscode.pl/icons?i=docker,nginx,caddy,traefik,cloudflare,vercel,githubactions,prometheus,grafana,debian,linux" alt="docker, nginx, caddy, traefik, cloudflare, vercel, githubactions, prometheus, grafana, debian, linux" height="40">
+      </picture>
     </td>
   </tr>
   <tr>
     <td width="150"><b>Narzędzia</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github,git,vscode,webstorm,phpstorm,pycharm,idea,figma,postman,pnpm,discord&theme=light">
-        <img src="https://skillicons.dev/icons?i=github,git,vscode,webstorm,phpstorm,pycharm,idea,figma,postman,pnpm,discord" alt="github, git, vscode, webstorm, phpstorm, pycharm, idea, figma, postman, pnpm, discord" height="40">
-      </picture><br>
-      <sub>oraz GoLand</sub>
+        <source media="(prefers-color-scheme: light)" srcset="https://badges.mscode.pl/icons?i=github,git,vscode,webstorm,phpstorm,goland,pycharm,idea,figma,postman,pnpm,discord&theme=light">
+        <img src="https://badges.mscode.pl/icons?i=github,git,vscode,webstorm,phpstorm,goland,pycharm,idea,figma,postman,pnpm,discord" alt="github, git, vscode, webstorm, phpstorm, goland, pycharm, idea, figma, postman, pnpm, discord" height="40">
+      </picture>
     </td>
   </tr>
   <tr>
     <td width="150"><b>Płatności i CMS</b></td>
-    <td>Stripe · Przelewy24 · InPost · Strapi</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://badges.mscode.pl/icons?i=stripe,przelewy24,inpost,strapi&theme=light">
+        <img src="https://badges.mscode.pl/icons?i=stripe,przelewy24,inpost,strapi" alt="stripe, przelewy24, inpost, strapi" height="40">
+      </picture>
+    </td>
   </tr>
 </table>
 
@@ -163,7 +181,7 @@ Więcej na [mscode.pl](https://mscode.pl/#projects).
 </p>
 
 <p align="center">
-  <a href="https://mscode.pl/#contact"><img src="https://img.shields.io/badge/Wyceń_projekt-3d7dff?style=for-the-badge" alt="Wyceń projekt"></a>
+  <a href="https://mscode.pl/#contact"><img src="https://badges.mscode.pl/badge/Wyce%C5%84_projekt?style=button&icon=email&color=3d7dff" alt="Wyceń projekt"></a>
 </p>
 
 <p align="center">
