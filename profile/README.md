@@ -108,7 +108,7 @@ Narzędzia, których sami używamy w projektach klientów. Darmowe, na licencji 
       </a>
       <h4><a href="https://github.com/mscode-pl/vocative">vocative</a></h4>
       <p>Imię w wołaczu, płeć i zwrot grzecznościowy, czyli „Cześć Anno” zamiast „Cześć Anna” w mailu i aplikacji. Te same wyniki w JavaScript i PHP, do tego plugin do Tolgee. Na start polski.</p>
-      <p><code>npm i @mscode-pl/vocative</code> <code>composer require mscode-pl/vocative</code></p>
+      <p><code>npm i @mscode-pl/vocative</code><br><code>composer require mscode-pl/vocative</code></p>
       <a href="https://www.npmjs.com/package/@mscode-pl/vocative"><img src="https://badges.mscode.pl/npm/v/@mscode-pl/vocative" alt="npm"></a>
       <a href="https://packagist.org/packages/mscode-pl/vocative"><img src="https://badges.mscode.pl/packagist/v/mscode-pl/vocative" alt="Packagist"></a>
       <a href="https://github.com/mscode-pl/vocative"><img src="https://badges.mscode.pl/github/stars/mscode-pl/vocative" alt="Gwiazdki"></a>
