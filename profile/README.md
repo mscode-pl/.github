@@ -85,11 +85,11 @@ Narzędzia, których sami używamy w projektach klientów. Darmowe, na licencji 
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <a href="https://github.com/mscode-pl/badges">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mscode-pl/badges/master/.github/banner-dark.svg">
-          <img src="https://raw.githubusercontent.com/mscode-pl/badges/master/.github/banner-light.svg" alt="README Badges" width="49%">
+          <img src="https://raw.githubusercontent.com/mscode-pl/badges/master/.github/banner-light.svg" alt="README Badges" width="100%">
         </picture>
       </a>
       <h4><a href="https://github.com/mscode-pl/badges">badges</a></h4>
@@ -98,6 +98,20 @@ Narzędzia, których sami używamy w projektach klientów. Darmowe, na licencji 
       <a href="https://badges.mscode.pl"><img src="https://badges.mscode.pl/badge/badges.mscode.pl/live/green?icon=cloudflare" alt="badges.mscode.pl"></a>
       <a href="https://github.com/mscode-pl/badges"><img src="https://badges.mscode.pl/github/stars/mscode-pl/badges" alt="Gwiazdki"></a>
       <a href="https://github.com/mscode-pl/badges/blob/master/LICENSE"><img src="https://badges.mscode.pl/github/license/mscode-pl/badges" alt="Licencja"></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mscode-pl/vocative">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mscode-pl/vocative/master/.github/banner-dark.svg">
+          <img src="https://raw.githubusercontent.com/mscode-pl/vocative/master/.github/banner-light.svg" alt="Vocative" width="100%">
+        </picture>
+      </a>
+      <h4><a href="https://github.com/mscode-pl/vocative">vocative</a></h4>
+      <p>Imię w wołaczu, płeć i zwrot grzecznościowy, czyli „Cześć Anno” zamiast „Cześć Anna” w mailu i aplikacji. Te same wyniki w JavaScript i PHP, do tego plugin do Tolgee. Na start polski.</p>
+      <p><code>npm i @mscode-pl/vocative</code> <code>composer require mscode-pl/vocative</code></p>
+      <a href="https://www.npmjs.com/package/@mscode-pl/vocative"><img src="https://badges.mscode.pl/npm/v/@mscode-pl/vocative" alt="npm"></a>
+      <a href="https://packagist.org/packages/mscode-pl/vocative"><img src="https://badges.mscode.pl/packagist/v/mscode-pl/vocative" alt="Packagist"></a>
+      <a href="https://github.com/mscode-pl/vocative"><img src="https://badges.mscode.pl/github/stars/mscode-pl/vocative" alt="Gwiazdki"></a>
     </td>
   </tr>
 </table>
